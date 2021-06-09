@@ -2,9 +2,9 @@
 
 > Rebuilding an existing module module to be a stand-alone unit, with temperature sensor and signalling LEDs. Uses an AVR ATmega8 microcontroller.
 
-Project documentation available at: https://cavelab.dev/wiki/Temperature_and_light_sensor_with_signalling_LEDs_(RS232)
+Project documentation available at: https://blog.cavelab.dev/2011/11/avr-temp-light-serial-sensor-with-leds/
 
-![Temperature and light sensor with signalling LEDs (RS232)](https://cavelab.dev/images/thumb/5/57/Temp_light_sensor-20170831_211347.jpeg/600px-Temp_light_sensor-20170831_211347.jpeg)
+![Temperature and light sensor with signalling LEDs (RS232)](https://i.logistics.cavelab.net/large/1633.jpeg)
 
 Written in basic, using [BASCOM-AVR](http://www.mcselec.com/).
 
@@ -12,10 +12,10 @@ Written in basic, using [BASCOM-AVR](http://www.mcselec.com/).
 **Thomas Jensen**
 * Twitter: [@thomasjsn](https://twitter.com/thomasjsn)
 * Github: [@thomasjsn](https://github.com/thomasjsn)
-* Website: [cavelab.dev](https://cavelab.dev/wiki/User:Thomas)
+* Website: [cavelab.dev](https://cavelab.dev)
 
 ## License
 The MIT License (MIT). Please see [license file](LICENSE.txt) for more information.
 
 ---
-_This README was automatically generated using the MediaWiki API_ (`pageid:2037`)
+_This README was automatically generated using µLogistics_ (`projectid:154`)
